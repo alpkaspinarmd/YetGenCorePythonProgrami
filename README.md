@@ -9,3 +9,31 @@ YetGen Core Python Programı süresince bana yardımcı olması açısından bu 
 -Python Nedir?
 -Kodlama Nedir?
 -Markdown Nedir? ve readme.md nasıl yazılır?
+
+# 2.Haftada Yapılan Çalışmalar
+-
+-
+-
+-
+-
+
+# 3.Haftada Yapılan Çalışmalar
+-
+-
+-
+-
+-
+# 4.Haftada Yapılan Çalışmalar
+-
+-
+-
+-
+-
+-
+# 5.Haftada Yapılan Çalışmalar
+-
+-
+-
+-
+-
+# 6.Haftada Yapılan Çalışmalar
